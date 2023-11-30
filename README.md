@@ -8,6 +8,8 @@
 - [My Yelp](https://github.com/bahtibek-an/Frontend-My-Yelp)
 - [React Calculator](https://github.com/bahtibek-an/Frontend-React-Calculator)
 
+## Инструкция
+
 У каждого проекта есть своя репозиторий. Зайдите в нужный вам проект по ссылке который перечислен наверху.
 И на сайте нажмите на кнопку `Fork`.
 
