@@ -1,1 +1,9 @@
-# Instruction-how-to-send-project-to-review
+# Инструкция по отправке проекта на проверку
+
+## Список проектов:
+### Frontend
+- [My Instagram](https://github.com/bahtibek-an/frontend-my_intagram)
+
+Инструкция по отправке проекта на проверку в GitHub
+У каждого проекта есть своя репозиторий. Зайдите по ссылке который перечислен наверху.
+И на сайте нажмите на кнопку `Fork`.
