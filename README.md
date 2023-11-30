@@ -47,4 +47,19 @@ git commit -m “КОММЕНТ”
 git push origin ВАША_ПОЛНАЯ_ИМЯ
 ```
 
+В вашей репозиторий вам надо нажать на кнопку `Pull requests`
+
+<img width="1268" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/721cb514-2404-40db-a121-3ca8cc9124d4">
+
+В открывшемся окне нажмите на кнопку показанный на картинке.
+
+<img width="1280" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/f618a139-b7e2-45e4-98a6-440046dd7a23">
+
+Измените ветку на которую вы создали и нажмите на зеленую кнопку `Create pull request`
+
+<img width="1280" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/982e7c57-87af-4baf-b17b-9d9ee0106b9b">
+
+В открывшемся окне нажмите еще раз на кнопку `Create pull request` и по желанию можете написать описание. 
+
+<img width="1269" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/635df8d1-88c2-4dd2-b6c0-b90745377173">
 
