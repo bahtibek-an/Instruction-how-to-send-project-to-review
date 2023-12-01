@@ -92,7 +92,8 @@
 ### **Шаг 5: Создание Pull Request**
 1. В вашем репозитории на GitHub нажмите `Pull requests`.
 2. Нажмите `Create pull request`.
-**Добавь скриншот где выбирают ветку**
+
+   <img width="1268" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/7c03ac4b-77fc-4e62-bd48-994c43cc4617">  
 
    ![Создание Pull Request](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/721cb514-2404-40db-a121-3ca8cc9124d4)
 
