@@ -1,4 +1,5 @@
 # **Руководство по Отправке Проекта на Проверку**
+[Qollanma O'zbek tilida](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review-UZ/blob/main/README.md)
 
 ## **Список Проектов**
 
