@@ -23,7 +23,6 @@
   - [My Ngram](https://github.com/smplLemon/arc-01-my_ngram/blob/main)
   - [My Mastermind](https://github.com/smplLemon/arc-01-my_mastermind/blob/main)
   - [My Printf](https://github.com/smplLemon/arc-01-my_printf/blob/main)
-  - []
 - ARC 02
   - [My ls](https://github.com/smplLemon/arc-02-my_ls/blob/main)
   - [My Tar](https://github.com/smplLemon/arc-02-my_tar/blob/main)
