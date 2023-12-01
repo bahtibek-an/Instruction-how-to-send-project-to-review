@@ -30,6 +30,15 @@
   - [My Blockchain](https://github.com/smplLemon/arc-02-my_blockchain/blob/main)
 
 - Software engineering
+  - [My Bsq](https://github.com/smplLemon/season-2-SE-my_bsq/blob/main)
+  - [My Bc](https://github.com/smplLemon/season-2-SE-my_bc/blob/main/README.md)
+  - [My Mouse](https://github.com/smplLemon/season-2-SE-my_mouse/blob/main/README.md)
+  - [My zsh](https://github.com/smplLemon/season-2-SE-my_zsh/blob/main)
+  - [My Allocine](https://github.com/smplLemon/season-2-SE-my_allocine/blob/main)
+  - [My Sqlite](https://github.com/smplLemon/season-2-SE-my_sqlite/blob/main/README.md)
+  - [My Curl](https://github.com/smplLemon/season-2-SE-my_curl/blob/main)
+  - [My Libasm](https://github.com/smplLemon/season-2-SE-my_libasm/blob/main/README.md)
+  - [My Malloc](https://github.com/smplLemon/season-2-SE-my_malloc/blob/main/README.md)
 
 - Data Science
   - [My Mr Clean](https://github.com/abdullaabdukulov/02-Data-Science-My-Mr-Clean-/blob/main)
