@@ -17,9 +17,24 @@
 - Software engineering
 
 - Data Science
-
+  - [My Mr Clean](https://github.com/abdullaabdukulov/02-Data-Science-My-Mr-Clean-/blob/main)
+  - [My Nba Game Analysis](https://github.com/abdullaabdukulov/02-Data-Science-My-Nba-Game-Analysis-/blob/main)
+  - [My Open The Iris](https://github.com/abdullaabdukulov/02-Data-Science-My-Open-The-Iris-)
+  - [My Ds Babel](https://github.com/abdullaabdukulov/02-Data-Science-My-Ds-Babel-/blob/main)
+  - [My Tu Verras](https://github.com/abdullaabdukulov/02-Data-Science-My-Tu-Verras/blob/main)
+  - [My M And A](https://github.com/abdullaabdukulov/02-Data-Science-My-M-and-A/tree/main)
+  - [My Convex Optimization](https://github.com/abdullaabdukulov/02-Data-Science-My-Convex-Optimization/tree/main)
+  - [My Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
+  - [My Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
+- 03 Data Science
+  - [Drive Me Crazy](https://github.com/abdullaabdukulov/03-Data-Science-Drive-Me-Crazy-/blob/main)
+  - [A Fool Fraud](https://github.com/abdullaabdukulov/03-Data-Science-A-Fool-Fraud-/blob/main)
+  - [Coleridge Initiative](https://github.com/abdullaabdukulov/03-Data-Science-Coleridge-Initiative-/blob/main)
 - Machine Learning
-
+  - [Visa For Lisa](https://github.com/abdullaabdukulov/03-Machine-Learning-Visa-For-Lisa-/blob/main)
+  - [Classically Punk](https://github.com/abdullaabdukulov/03-Machine-Learning-Classically-Punk-/tree/main)
+  - [My PayPal](https://github.com/abdullaabdukulov/03-Machine-Learning-My-Paypal)
+  - [Atari Games](https://github.com/abdullaabdukulov/03-Machine-Learning-Atari-Games-/tree/main)
 
 ## **Шаги Отправки Проекта**
 
