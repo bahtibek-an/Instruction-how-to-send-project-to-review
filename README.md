@@ -63,7 +63,7 @@
 1. В вашем новом форке нажмите `Create fork`.
 2. Скопируйте URL для клонирования репозитория.
 
-   <img width="1268" alt="Снимок экрана 2023-12-01 165601" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/25a1d93d-4872-486d-bb13-6817796fffb8">
+   <img width="1263" alt="image" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/fdecc150-8137-4568-8f1f-d269ac087a1c">
    
 4. В терминале выполните команду:
    ```
