@@ -62,6 +62,12 @@
   - [My PayPal](https://github.com/abdullaabdukulov/03-Machine-Learning-My-Paypal)
   - [Atari Games](https://github.com/abdullaabdukulov/03-Machine-Learning-Atari-Games-/tree/main)
 
+## **Проекты которые перечислены ниже проверятся не будут**
+- Full-Stack Java
+  - [National Parks Uml](https://github.com/bahtibek-an/fullstack-java-National-Parks-Uml/blob/main)
+  - [My Java Mastermind](https://github.com/bahtibek-an/fullstack-java-My-Java-Mastermind/blob/main)
+  - [My Spring Portfolio](https://github.com/bahtibek-an/full-stack-java-My-Spring-Portfolio/blob/main/README.md)
+
 ## **Шаги Отправки Проекта**
 
 ### **Шаг 1: Форкните Репозиторий**
